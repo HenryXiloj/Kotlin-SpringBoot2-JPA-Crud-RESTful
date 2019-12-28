@@ -8,11 +8,12 @@ import javax.validation.constraints.NotBlank
 @Table(name="users")
 data class User(
 
+        
         @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
         val id: Long  = 0,
 
         val created: Timestamp = Timestamp(System.currentTimeMillis()),
-
+        
         @get: NotBlank
         val password: String = "",
 
