@@ -1,7 +1,7 @@
 # Kotlin-SpringBoot2-JPA-Crud-RESTful
 Integration Kotlin Spring boot 2 Spring Data JPA RESTful Web service, Crud Example
 
-You can IDE Eclipse or IntelliJ Community. :)
+You can use IDE Eclipse or IntelliJ Community. :)
 
 Steps:
 
